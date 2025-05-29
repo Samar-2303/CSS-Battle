@@ -1,0 +1,48 @@
+   .circle1 {
+    width: 118px;
+    height:118px;
+    background: #FFFFFF;
+    border-radius:50%;
+    position: relative;
+    left: -66px;
+    top: 3px;
+  }
+  .circle2 {
+    width: 118px;
+    height:118px;
+    background: #282828;
+    border-radius:50%;
+    position: relative;
+    left: -66px;
+    top: 45px
+  }
+.circle3 {
+    width: 118px;
+    height:118px;
+    background: #FFFFFF;
+    border-radius:50%;
+    position: relative;
+    left: 332px;
+    top: -73px;
+  }
+  .circle4 {
+    width: 118px;
+    height:118px;
+    background: #282828;
+    border-radius:50%;
+    position: fixed;
+    left: 340px;
+    top: 11px
+  }
+.circle5 {
+    width: 80px;
+    height:80px;
+    background: #282828;
+    border-radius:50%;
+    position: fixed;
+    left: 160px;
+    top: 111px;
+}
+body {
+    background-color: #F58220;
+  }
