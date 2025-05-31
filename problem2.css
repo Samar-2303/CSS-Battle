@@ -1,4 +1,4 @@
-   .circle1 {
+.circle1 {
     width: 118px;
     height:118px;
     background: #FFFFFF;
@@ -6,8 +6,8 @@
     position: relative;
     left: -66px;
     top: 3px;
-  }
-  .circle2 {
+    }
+.circle2 {
     width: 118px;
     height:118px;
     background: #282828;
@@ -15,17 +15,16 @@
     position: relative;
     left: -66px;
     top: 45px
-  }
+    }
 .circle3 {
-    width: 118px;
-    height:118px;
+    width: 118px;   height:118px;
     background: #FFFFFF;
     border-radius:50%;
     position: relative;
     left: 332px;
     top: -73px;
   }
-  .circle4 {
+.circle4 {
     width: 118px;
     height:118px;
     background: #282828;

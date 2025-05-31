@@ -1,0 +1,73 @@
+  .div1 {
+    width: 20px;
+    height: 40px;
+    background: #282828;
+    transform: rotate(45deg);
+    left:261px;
+    top:59px;
+    position:fixed;
+  }
+  .div2 {
+    width: 20px;
+    height: 40px;
+    background: #282828;
+    transform: rotate(45deg);
+    left:119px;
+    top:200px;
+    position:fixed;
+  }
+  .div3 {
+    width: 20px;
+    height: 41px;
+    background: #282828;
+    transform: rotate(-45deg);
+    left:260px;
+    top:200px;
+    position:fixed;
+  }
+  .div4 {
+    width: 20px;
+    height: 40px;
+    background: #282828;
+    transform: rotate(-45deg);
+    left:119px;
+    top:59px;
+    position:fixed;
+  }
+  .div5 {
+    width: 20px;
+    height: 40px;
+    background: #282828;
+    left:190px;
+    top:70px;
+    position:fixed;
+  }
+   .div6 {
+    width: 20px;
+    height: 40px;
+    background: #282828;
+    left:190px;
+    top:190px;
+    position:fixed;
+  }
+  .div7 {
+    width: 20px;
+    height: 40px;
+    background: #282828;
+    transform: rotate(90deg);
+    left:130px;
+    top:130px;
+    position:fixed;
+  }
+    .div8 {
+    width: 20px;
+    height: 40px;
+    background: #282828;
+    transform: rotate(90deg);
+    left:250px;
+    top:130px;
+    position:fixed;
+  }
+  body {
+    background: #F3AC3C;
+  }
