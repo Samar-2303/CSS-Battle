@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.figure9-container {
+  width: 400px;
+  height: 300px;
+  background: #9076D8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nine {
+  position: relative;
+  width: 160px;
+  height: 240px;
+}
+
+.nine .circle {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: #fff;
+  position: absolute;
+  left: 50%;
+  top: 20;
+  transform: translateX(-50%);
+}
+.nine .hole {
+  width: 60px;
+  height: 60px;
+  background: #9076D8;
+  border-radius: 50%;
+  position: absolute;
+  left: 50%;
+  top: 50px;
+  transform: translateX(-50%);
+}
+.stem1{
+  width: 29.9px;
+  height: 120px;
+  background: #fff;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 47%;
+  top:74px;
+  left: 229.9px;
+  position: fixed;
+}
+.arc {
+  width: 60px;
+  height: 70px;
+  background: #9076D8;
+  border: 31px solid white ;
+  border-left: 30px solid white;
+  border-radius: 50%;
+  clip-path: polygon(135% 50%, 2000% 100%, -1000% 100%);
+  position: fixed;
+  right: 140px;
+  top:120px;
+  position:fixed;
+}
+.square{ 
+   width: 29px;
+  height: 29px;
+  background: #fff;
+  top:140px;
+  left:20.5px;
+  position:relative;
+  
+}
