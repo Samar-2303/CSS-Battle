@@ -1,0 +1,38 @@
+body{
+    background-color:#394257;
+  }
+ .circle{
+  width: 260px;
+  height: 250px;
+  background: #394257;
+  border: 40px solid #EED9D9;
+  border-radius: 50%;
+  position:fixed;  
+  left: 30px;          
+  top: 60px;           
+}
+.box{
+  width: 100px;
+  height: 1000px;
+  background: #394257;
+  border: 40px solid #EED9D9;
+  position:fixed;  
+  left: 110px;          
+  top: 30px;           
+}
+.strip1{
+  height:40px;
+  width:1000px;
+  background-color:#EED9D9;
+  position:fixed;  
+  left: 0px;          
+  top: 230px; 
+}
+.strip2{
+  height:40px;
+  width:1000px;
+  background-color:#394257;
+  position:fixed;  
+  left: 0px;          
+  top: 270px; 
+}
