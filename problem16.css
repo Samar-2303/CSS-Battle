@@ -1,0 +1,33 @@
+ body{
+    background: #2D3464;
+  }
+  .circle1 {
+    width: 160px;
+    height: 150px;
+    border-radius:50%;
+    background: #5AA4B7;
+    position:fixed;
+    left: 120px;
+    top:-70px;
+  }
+  .circle2 {
+    width: 160px;
+    height: 160px;
+    border-radius:50%;
+    background: #5AA4B7;
+    position:fixed;
+    left: 120px;
+    top:160px;
+    clip-path: polygon(0 0, 100% 0, 100% 50%, 0 50%); 
+  }
+  
+.circle3 {
+    width: 160px;
+    height: 160px;
+    border-radius:50%;
+    background: #5AA4B7;
+    position:fixed;
+    left: 120px;
+    top:0px;
+    clip-path: polygon(0 50%, 100% 50%, 100% 100%, 0 100%);
+}
